@@ -40,7 +40,7 @@ GroceryStore::GroceryStore( const std::string & persistentInventoryDB )
     while (!fin.eof())
     {
 
-      std::cout << "Ahmad test";
+      std::cout << "Darren test";
 
     }
 
