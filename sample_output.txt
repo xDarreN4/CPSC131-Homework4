@@ -1,0 +1,78 @@
+
+Charlie Brown's shopping cart contains:
+	"00611508524006",  "Boston American",  "Gum Tim Lump Of Coal",  9.51
+	-------------------------
+	Total  $9.51
+
+Lucy van Pelt's shopping cart contains:
+	"00030768009670",  "Sundown Naturals",  "Sundown Naturals Liquid-filled Calcium 1200mg Softgels - 60 Ct",  2.12
+	"00070327012116",  "Paradise",  "Pineapple Red Wedges",  16.75
+	"00073377801839",  "Earth Therapeutics",  "Earth Therapeutics Sleep Mask Blue - 1 Mask",  9.95
+	"00079471102414",  "Galil",  "Olive Grn Manzanillo",  13.94
+	"00086449903065",  "Crystal",  "Crystal Body Deodorant Towelettes - 6 Towelettes",  8.39
+	"00710069086036",  "Gefen",  "Cracker Ff Herb & Grlc",  13.05
+	"00780872310185",  "Castor & Pollux",  "Dog Food Can Tripe Chkn A",  7.63
+	"00885229000198",  "Good4u",  "Bev 4flvr Palt 1512pc",  7.09
+	-------------------------
+	Total  $78.92
+
+Peppermint Patty's shopping cart contains:
+	"00021908501871",  "Cascadian Farms",  "Potato Spud Puppies",  10.25
+	"00051500280645",  "Hungry Jack",  "Hungry Jack Complete Buttermilk Pancake & Waffle Mix",  28.39
+	"00079400266200",  "Degree",  "Degree Body Responsive Invisible Solid Deodorant Fresh",  11.95
+	"00631723300704",  "Divina",  "Pepperoncini Greek",  10.59
+	"00763795931415",  "Hallmark",  "Hallmark Plates Nfl Chicago Bears - 8 Ct",  5.51
+	"00856414001092",  "Mayte",  "Mayte Platanitos Plantain Chips Garlic",  14.14
+	"00898425001333",  "Lifestyle Foods",  "Lifestyle Foods Grilled Veggies And Hummus Sandwich",  17.99
+	-------------------------
+	Total  $98.82
+
+Red Baron's shopping cart contains:
+	"00025317533003",  "Applegate Farms",  "Hotdog Uncrd Big Apple",  12.57
+	"00037466065908",  "Lindt",  "Truffle Mini Egg Clpst 24",  22.51
+	"00038000291210",  "Rice Krispies",  "Kellogg's Rice Krispies Cereal",  17.58
+	"00688267039317",  "Nature's Promise",  "Nature's Promise Naturals Fresh Brown Eggs Omega 3 Large",  24.66
+	"00835841005255",  "Fiber One",  "Fiber One Bread Country White",  3.87
+	"09073649000493" (apple pie) not found, the item is free!
+	-------------------------
+	Total  $81.19
+
+Woodstock's shopping cart contains:
+	"00018000001958",  "Pillsbury",  "Pillsbury Cinnamon Mini-bites With Icing - 24 Ct",  17.10
+	"00021000778690",  "Kraft",  "Kraft Velveeta Cheesy Mashed Potatoes",  3.63
+	"00033674100066",  "Nature's Way",  "Nature's Way Forskohlii - 60 Ct",  6.11
+	"00041331092609",  "Goya",  "Frz Spnsh Omelet",  16.84
+	"00041520010667",  "Careone",  "Careone Mouth Wash Alcohol Free Light Mint",  11.21
+	"00070177862640",  "Twinings Of London",  "Twinings K-cup Tea Sampler - 10 Ct",  10.94
+	"00071758100823",  "Fiesta",  "Ssnng Pepper New Mexico",  21.24
+	"00216079600007",  "Usda Meat",  "Lamb Chops Loin",  11.08
+	"00217039300005",  "Usda Meat",  "Top Butt Filet Steak",  22.74
+	"00636874220338",  "Eo",  "Face Exfoliate",  18.74
+	"00688267133442",  "Ahold",  "Ahold Extra Bold 100% Arabica Coffee Single Serving Cups - 12 Ct",  20.06
+	"00688267138973",  "Simply Enjoy",  "Simply Enjoy Acai Berry Loose Organic Green Tea",  20.41
+	"00790555051526",  "Walnut Acres",  "Walnut Acres Organic Whole Black Beans",  24.24
+	"00859013004327",  "Wissotsky",  "Tea Nana Mint Dsp 60pc",  22.05
+	"00891475001421",  "Trujoy Sweets",  "Candy Fruit Chews",  20.94
+	-------------------------
+	Total  $247.33
+
+
+
+
+
+Re-ordering grocery items the store is running low on.
+
+ 1:  {"00025317533003",  "Applegate Farms",  "Hotdog Uncrd Big Apple",  12.57} 
+        only 8 remain in stock which is 7 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 2:  {"00041331092609",  "Goya",  "Frz Spnsh Omelet",  16.84} 
+        *** no longer sold in this store and will not be re-ordered
+
+ 3:  {"00070596000647",  "Ultra Glow",  "Ultra Glow Black Soap",  21.19} 
+        only 12 remain in stock which is 3 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 4:  {"00072591002251",  "Log House",  "Chip Pnut Bttr",  9.74} 
+        only 11 remain in stock which is 4 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 5:  {"00073377801839",  "Earth Therapeutics",  "Earth Therapeutics Sleep Mask Blue - 1 Mask",  9.95} 
+        only 12 remain in stock which is 3 unit(s) below reorder threshold (15), re-ordering 20 more
